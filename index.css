@@ -1,3 +1,9 @@
 .lnk-rojo{
     color: red;
 }
+body{
+    font-family: Georgia;
+}
+#inicio{
+    border-bottom: solid 2px black;
+}
