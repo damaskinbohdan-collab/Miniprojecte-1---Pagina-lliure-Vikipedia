@@ -13,7 +13,7 @@ body{
 #historia{
     border-bottom: solid 1px black;
 }
-header nav{
+body nav ul{
     list-style-type: none;
 }
 #jugabilidad{
@@ -24,4 +24,13 @@ header nav{
 }
 footer h2{
     border-bottom: solid 1px black;
+}
+main{
+    display:flex;
+    gap: 30px;
+}
+body{
+    width: 1024px;
+    padding-left: 6%;
+    align-content: center;
 }
