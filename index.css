@@ -13,6 +13,15 @@ body{
 #historia{
     border-bottom: solid 1px black;
 }
-nav{
-    list-style: none;
+header nav{
+    list-style-type: none;
+}
+#jugabilidad{
+    border-bottom: solid 1px black;
+}
+#generosrelacionados{
+    border-bottom: solid 1px black;
+}
+footer h2{
+    border-bottom: solid 1px black;
 }
