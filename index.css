@@ -15,6 +15,11 @@ body{
 }
 body nav ul{
     list-style-type: none;
+    text-decoration: none;
+}
+body nav li{
+    margin-bottom: 10px;
+
 }
 #jugabilidad{
     border-bottom: solid 1px black;
@@ -29,8 +34,21 @@ main{
     display:flex;
     gap: 30px;
 }
+.contenidos{
+    border-bottom: solid 1px black;
+}
+.caja-menu{
+    padding-left: 7%;
+}
+.caja-contenido{
+    padding-right: 23%;
+}
+header{
+    padding-left: 7%;
+}
 body{
-    width: 1024px;
-    padding-left: 6%;
-    align-content: center;
+    width: auto;
+}
+body .imagen{
+    display: flex;
 }
